@@ -1,0 +1,9 @@
+{
+  "name": "yb-performance-site",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Site vitrine + vente de programmes d'entraînement — YB Performance",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
